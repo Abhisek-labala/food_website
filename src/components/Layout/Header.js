@@ -77,7 +77,7 @@ const Header = () => {
             <Box sx={{ display: { xs: "none", sm: "block" } }}>
               <ul className="navigation-menu">
                 <li>
-                  <NavLink activeClassName="active" to={"/"}>
+                  <NavLink activeClassName="active" to={"/food_website"}>
                     Home
                   </NavLink>
                 </li>
