@@ -33,7 +33,7 @@ const Header = () => {
       <Divider />
       <ul className="mobile-navigation">
         <li>
-          <NavLink activeClassName="active" to={"/"}>
+          <NavLink activeClassName="active" to={"/food_website"}>
             Home
           </NavLink>
         </li>
